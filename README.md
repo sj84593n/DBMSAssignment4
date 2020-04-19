@@ -7,3 +7,4 @@
 ### 1. MySql script
 ### 2.INSERT Commands
 ### 3.SELECT Query
+### Also Video in a Wiki page
