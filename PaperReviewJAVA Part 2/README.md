@@ -11,3 +11,5 @@ Part 2
       - CountPapers.class - This uses a select count(*) to give the count of Submitted paper.
       
       -test.class - To check the connection between MySQL database to JDBC 
+### Go to the Wiki page to check both assignment videos
+# Thank you
