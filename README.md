@@ -7,4 +7,5 @@
 ### 1. MySql script
 ### 2.INSERT Commands
 ### 3.SELECT Query
-### Also Video in a Wiki page
+# Also Videos are in a Wiki page of this github repository
+# Thank you
