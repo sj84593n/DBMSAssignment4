@@ -1,0 +1,1 @@
+select * FROM Paper left join Author on Paper.EmailAddr = Author.EmailAddr;
